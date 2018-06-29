@@ -24,10 +24,16 @@ class App extends React.Component {
               return <p>Not Found!</p>
             }} />
           </Switch>
+          <Footer />
         </div>
       </Router>
     )
   }
 }
+
+const Footer = () =>
+  <footer class="footer">
+    <p>Copyright © 2017</p>
+  </footer>
 
 module.exports = App;

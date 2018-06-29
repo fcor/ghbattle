@@ -2,7 +2,7 @@
 
 This is a "Github Battle App". Enter in two Github usernames, and it'll declare a winner.
 
-[See the webapp here](https://ghbattle-bfd2c.firebaseapp.com/)
+[See the webapp here](https://remarkable-coal.surge.sh/)
 
 ## Credits
 
